@@ -1,0 +1,10 @@
+1#Nguyen Van A#25#Nam#Hanoi
+2#Tran Thi B#30#Nu#Ho Chi Minh
+3#Le Van C#22#Nam#Da Nang
+4#Pham Thi D#28#Nu#Hai Phong
+5#Hoang Van E#35#Nam#Can Tho
+6#Nguyen Thi F#26#Nu#Hue
+7#Tran Van G#29#Nam#Vinh
+8#Le Thi H#31#Nu#Nha Trang
+9#Pham Van I#24#Nam#Bac Giang
+10#Ho Thi K#27#Nu#Quang Ninh

@@ -1,0 +1,10 @@
+NCC1#0987654321#111 Le Loi, Quan 1, TP.Ho Chi Minh
+NCC2#0123456789#222 Nguyen Hue, Quan 3, TP.Ho Chi Minh
+NCC3#3456789012#333 Ben Thanh, Quan 4, TP.Ho Chi Minh
+NCC4#5678901234#444 Vo Van Tan, Quan 5, TP.Ho Chi Minh
+NCC5#7890123456#555 Pham Ngu Lao, Quan 6, TP.Ho Chi Minh
+NCC6#2345678901#666 Binh Thanh, Quan 7, TP.Ho Chi Minh
+NCC7#567890123#777 Go Vap, Quan 8, TP.Ho Chi Minh
+NCC8#098765432#888 Tan Binh, Quan 9, TP.Ho Chi Minh
+NCC9#012345678#999 Tan Phu, Quan 10, TP.Ho Chi Minh
+NCC10#4567890123#1011 Q. Binh Thanh, TP.Ho Chi Minh

@@ -1,0 +1,10 @@
+NXB1#0987654321#123 Duong ABC, Quan 1, TP.Ho Chi Minh
+NXB2#0123456789#456 Pho XYZ, Quan 2, TP.Ho Chi Minh
+NXB3#3456789012#789 Ngo DEF, Quan 3, TP.Ho Chi Minh
+NXB4#5678901234#321 Ngach GHI, Quan 4, TP.Ho Chi Minh
+NXB5#7890123456#654 Nguyen Du, Quan 5, TP.Ho Chi Minh
+NXB6#2345678901#987 Le Lai, Quan 6, TP.Ho Chi Minh
+NXB7#567890123#231 Le Quy Don, Quan 7, TP.Ho Chi Minh
+NXB8#098765432#876 Duong KLM, Quan 8, TP.Ho Chi Minh
+NXB9#012345678#345 Duong NOP, Quan 9, TP.Ho Chi Minh
+NXB10#4567890123#678 Hem QRS, Quan 10, TP.Ho Chi Minh

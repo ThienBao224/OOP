@@ -1,0 +1,10 @@
+Sach1#MS009#Nguyen Van A#NXB1#Van Hoc#10000.0#50
+Sach2#MS008#Tran Thi B#NXB2#Lich Su#15000.0#30
+Sach3#MS007#Le Van C#NXB3#Nau An#12000.0#25
+Sach4#MS006#Pham Thi D#NXB4#Phieu Luu#18000.0#40
+Sach5#MS005#Hoang Van E#NXB5#Hoc Ngoai Ngu#20000.0#20
+Sach6#MS004#Nguyen Thi F#NXB6#Kinh Doanh#22000.0#230
+Sach7#MS003#Tran Van G#NXB7#Tam Ly#25000.0#30
+Sach8#MS002#Le Thi H#NXB8#The Thao#18000.0#24
+Sach9#MS001#Pham Van I#NXB9#Trinh Tham#30000.0#28
+Sach10#MS010#Pham Van I#NXB10#Lich Su#28000.0#25

@@ -1,0 +1,80 @@
+ID-DH: DH001|Trang thai: Da dat    |Ngay dat: 10/01/23|Ngay giao: 03/01/24|Phi giao: 15000.00 |ID-KH: KH001|Ho va Ten: Nguyen Van A             | Tuoi: 30  | Gioi tinh: Nam            | Phuong thuc thanh toan: Tien mat        | Ngay thanh toan: 10/01/23 |
+Ten sach: Sach9, gia: 30000.00, So luong:x15
+Ten sach: Sach8, gia: 18000.00, So luong:x12
+Ten sach: Sach7, gia: 25000.00, So luong:x18
+Ten sach: Sach6, gia: 22000.00, So luong:x10
+Ten sach: Sach5, gia: 20000.00, So luong:x14
+Thanh tien: 1616000.00
+
+ID-DH: DH002|Trang thai: Dang giao |Ngay dat: 05/02/23|Ngay giao: 10/02/23|Phi giao: 20050.00 |ID-KH: KH002|Ho va Ten: Tran Thi B               | Tuoi: 25  | Gioi tinh: Nữ             | Phuong thuc thanh toan: Chuyen Khoang   | Ngay thanh toan: 05/02/23 |
+Ten sach: Sach4, gia: 18000.00, So luong:x20
+Ten sach: Sach3, gia: 12000.00, So luong:x16
+Ten sach: Sach2, gia: 15000.00, So luong:x11
+Ten sach: Sach1, gia: 10000.00, So luong:x17
+Ten sach: Sach10, gia: 28000.00, So luong:x19
+Thanh tien: 1419000.00
+
+ID-DH: DH003|Trang thai: Da dat    |Ngay dat: 08/03/24|Ngay giao: 01/03/25|Phi giao: 30025.00 |ID-KH: KH003|Ho va Ten: Le Minh C                | Tuoi: 35  | Gioi tinh: Nam            | Phuong thuc thanh toan: Chuyen Khoang   | Ngay thanh toan: 08/03/24 |
+Ten sach: Sach9, gia: 30000.00, So luong:x13
+Ten sach: Sach8, gia: 18000.00, So luong:x10
+Ten sach: Sach7, gia: 25000.00, So luong:x15
+Ten sach: Sach6, gia: 22000.00, So luong:x20
+Ten sach: Sach5, gia: 20000.00, So luong:x18
+Thanh tien: 1745000.00
+
+ID-DH: DH004|Trang thai: Da giao   |Ngay dat: 12/04/23|Ngay giao: 06/04/24|Phi giao: 18075.00 |ID-KH: KH004|Ho va Ten: Pham Thi D               | Tuoi: 28  | Gioi tinh: Nữ             | Phuong thuc thanh toan: Tien mat        | Ngay thanh toan: 12/04/23 |
+Ten sach: Sach4, gia: 18000.00, So luong:x14
+Ten sach: Sach3, gia: 12000.00, So luong:x12
+Ten sach: Sach2, gia: 15000.00, So luong:x16
+Ten sach: Sach1, gia: 10000.00, So luong:x20
+Ten sach: Sach10, gia: 28000.00, So luong:x11
+Thanh tien: 1144000.00
+
+ID-DH: DH005|Trang thai: Da dat    |Ngay dat: 08/05/23|Ngay giao: 12/05/23|Phi giao: 25000.00 |ID-KH: KH005|Ho va Ten: Nguyen Huu E             | Tuoi: 40  | Gioi tinh: Nam            | Phuong thuc thanh toan: Chuyen Khoang   | Ngay thanh toan: 08/05/23 |
+Ten sach: Sach9, gia: 30000.00, So luong:x19
+Ten sach: Sach8, gia: 18000.00, So luong:x15
+Ten sach: Sach7, gia: 25000.00, So luong:x18
+Ten sach: Sach6, gia: 22000.00, So luong:x10
+Ten sach: Sach5, gia: 20000.00, So luong:x14
+Thanh tien: 1790000.00
+
+ID-DH: DH006|Trang thai: Dang giao |Ngay dat: 06/06/25|Ngay giao: 05/07/23|Phi giao: 40000.00 |ID-KH: KH006|Ho va Ten: Tran Thi F               | Tuoi: 22  | Gioi tinh: Nữ             | Phuong thuc thanh toan: Ghi No          | Ngay thanh toan: 06/06/25 |
+Ten sach: Sach4, gia: 18000.00, So luong:x20
+Ten sach: Sach3, gia: 12000.00, So luong:x16
+Ten sach: Sach2, gia: 15000.00, So luong:x11
+Ten sach: Sach1, gia: 10000.00, So luong:x17
+Ten sach: Sach10, gia: 28000.00, So luong:x19
+Thanh tien: 1419000.00
+
+ID-DH: DH007|Trang thai: Da giao   |Ngay dat: 03/07/24|Ngay giao: 08/07/24|Phi giao: 30075.00 |ID-KH: KH007|Ho va Ten: Le Van G                 | Tuoi: 32  | Gioi tinh: Nam            | Phuong thuc thanh toan: Tien mat        | Ngay thanh toan: 03/07/24 |
+Ten sach: Sach9, gia: 30000.00, So luong:x13
+Ten sach: Sach8, gia: 18000.00, So luong:x10
+Ten sach: Sach7, gia: 25000.00, So luong:x15
+Ten sach: Sach6, gia: 22000.00, So luong:x20
+Ten sach: Sach5, gia: 20000.00, So luong:x18
+Thanh tien: 1745000.00
+
+ID-DH: DH008|Trang thai: Da giao   |Ngay dat: 10/08/23|Ngay giao: 03/08/24|Phi giao: 18025.00 |ID-KH: KH008|Ho va Ten: Pham Van H               | Tuoi: 27  | Gioi tinh: Nam            | Phuong thuc thanh toan: Tien mat        | Ngay thanh toan: 10/08/23 |
+Ten sach: Sach4, gia: 18000.00, So luong:x14
+Ten sach: Sach3, gia: 12000.00, So luong:x12
+Ten sach: Sach2, gia: 15000.00, So luong:x16
+Ten sach: Sach1, gia: 10000.00, So luong:x20
+Ten sach: Sach10, gia: 28000.00, So luong:x11
+Thanh tien: 1144000.00
+
+ID-DH: DH009|Trang thai: Da dat    |Ngay dat: 01/09/25|Ngay giao: 06/09/25|Phi giao: 35050.00 |ID-KH: KH009|Ho va Ten: Nguyen Thi I             | Tuoi: 38  | Gioi tinh: Nữ             | Phuong thuc thanh toan: Ghi No          | Ngay thanh toan: 01/09/25 |
+Ten sach: Sach9, gia: 30000.00, So luong:x19
+Ten sach: Sach8, gia: 18000.00, So luong:x15
+Ten sach: Sach7, gia: 25000.00, So luong:x18
+Ten sach: Sach6, gia: 22000.00, So luong:x10
+Ten sach: Sach5, gia: 20000.00, So luong:x14
+Thanh tien: 1790000.00
+
+ID-DH: DH010|Trang thai: Dang giao |Ngay dat: 06/10/24|Ngay giao: 01/10/25|Phi giao: 28000.00 |ID-KH: KH010|Ho va Ten: Le Van K                 | Tuoi: 45  | Gioi tinh: Nam            | Phuong thuc thanh toan: Tien mat        | Ngay thanh toan: 06/10/24 |
+Ten sach: Sach4, gia: 18000.00, So luong:x20
+Ten sach: Sach3, gia: 12000.00, So luong:x16
+Ten sach: Sach2, gia: 15000.00, So luong:x11
+Ten sach: Sach1, gia: 10000.00, So luong:x17
+Ten sach: Sach10, gia: 28000.00, So luong:x19
+Thanh tien: 1419000.00
+

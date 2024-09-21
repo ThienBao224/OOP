@@ -1,0 +1,5 @@
+BV001#Nguyen Van An#28#Nam#Bao Ve#Chuyen vien vo thuat#1500.0
+BV002#Tran Thi Binh#32#Nu#Bao Ve#Chuyen gia giam sat#1800.0
+BV003#Le Minh Tuan#35#Nam#Bao Ve#Chuyen gia phan ung khan cap#2200.0
+BV004#Pham Thi Mai#30#Nu#Bao Ve#Chuyan gia đam phan#2500.0
+BV005#Nguyen Huu Nam#27#Nam#Bao Ve#Chuyen gia cong nghe#2800.0

@@ -1,0 +1,5 @@
+BH001#Nguyen Thi Mai#25#Nu#Ban Hang#2000.0#50
+BH002#Tran Van Anh#28#Nam#Ban Hang#2300.0#45
+BH003#Le Hong Nhung#30#Nu#Ban Hang#2500.0#60
+BH004#Pham Minh Tuan#35#Nam#Ban Hang#2800.0#55
+BH005#Nguyen Van Hung#32#Nam#Ban Hang#3000.0#48
